@@ -1,0 +1,2 @@
+Adding new file new7.txt to push to github.com
+
